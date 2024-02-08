@@ -1,3 +1,5 @@
 Command line utility for the XRPLedger
 
- Full access to the XRPL API from the command line (WIP)
+ All READ operations of the public XRPL API
+
+ This utility does not support signing or transaction operations
